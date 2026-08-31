@@ -1,69 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="872" height="764"
-     viewBox="0 0 872 764"
+<svg xmlns="http://www.w3.org/2000/svg" width="855" height="764"
+     viewBox="0 0 855 764"
      font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace"
      font-size="14">
-  <rect width="872" height="764" rx="8" fill="#0d1117"/>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="36.18"><tspan fill="#d2a8ff">kishore@kishore2494</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="55.22"><tspan fill="#d2a8ff">- System --------------------------------------</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="74.26"><tspan fill="#79c0ff">- OS:</tspan><tspan fill="#484f58"> ...................... </tspan><tspan fill="#c9d1d9">macOS, iOS, Android</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="93.3"><tspan fill="#79c0ff">- Uptime:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">4 years, 7 months, 5 days</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="112.34" fill="#8b949e">                &lt;va@@@%*aM8@@*C)\d#h?+</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="112.34"><tspan fill="#79c0ff">- Host:</tspan><tspan fill="#484f58"> .............................. </tspan><tspan fill="#c9d1d9">Aurora AI</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="131.38" fill="#8b949e">              (QQa@@@@@@@@@&amp;B@@@drJ@w0t</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="131.38"><tspan fill="#79c0ff">- Kernel:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#c9d1d9">Founder, AI Engineer</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="150.42" fill="#8b949e">           /qW@@@@@@@BB&amp;&amp;88#bMkh#BkB@%j</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="150.42"><tspan fill="#79c0ff">- Shell:</tspan><tspan fill="#484f58"> .................... </tspan><tspan fill="#c9d1d9">Deep-Tech Explorer</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="169.46" fill="#8b949e">          n@@@@@@@@B&amp;ad*aahM*#Mdka%%@@m !</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="169.46"><tspan fill="#79c0ff">- Locale:</tspan><tspan fill="#484f58"> ................................ </tspan><tspan fill="#c9d1d9">India</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="188.5" fill="#8b949e">         ?&amp;@@@@@@@8Wbqk*BBWM%@@BB@B@@@@qzz</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="188.5"><tspan fill="#79c0ff">- IDE:</tspan><tspan fill="#484f58"> .................... </tspan><tspan fill="#c9d1d9">VS Code, Claude Code</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="207.54" fill="#8b949e">       (w@@@@@@B8WMW**MW&amp;@@B@@@@B@@@@@@@@&amp;Y</text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="226.58" fill="#8b949e">      &lt;h@@@@@B8WMW#WB@@@@@@@@@@@@@@@@@@@@@M0?</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="226.58"><tspan fill="#d2a8ff">- Languages -----------------------------------</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="245.62" fill="#8b949e">      C#@@@@@@@%#*MW&amp;&amp;MhmXf)+&lt;~?jJqddM@@@@@%k\</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="245.62"><tspan fill="#79c0ff">- Programming:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="264.66" fill="#8b949e">      j8@@@@BJ-                       j%@B*8@@c</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="264.66"><tspan fill="#79c0ff">- AI / ML:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#c9d1d9">LLM fine-tuning, RAG, multi-agent</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="283.7" fill="#8b949e">       L@@@@r                          Z@ob%B@b</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="283.7"><tspan fill="#79c0ff">- Stack:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">LangChain, Ollama, FAISS, ChromaDB</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="302.74" fill="#8b949e">       L@B@&amp;~                          qB*%@@ht</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="302.74"><tspan fill="#79c0ff">- Web:</tspan><tspan fill="#484f58"> ................ </tspan><tspan fill="#c9d1d9">React, Three.js, OpenAPI</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="321.78" fill="#8b949e">       v@B@W+                          #B&amp;@@%</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="321.78"><tspan fill="#79c0ff">- Computer:</tspan><tspan fill="#484f58"> ......... </tspan><tspan fill="#c9d1d9">HTML, CSS, SQL, JSON, YAML</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="340.82" fill="#8b949e">       ?@@@M   ()-)/-         ?(?+-?   _8@@@b</text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="359.86" fill="#8b949e">        k@@z !XUXUQmZX      +zmOCXXJU~  z@B@f</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="359.86"><tspan fill="#d2a8ff">- Interests -----------------------------------</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="378.9" fill="#8b949e">        _@@| _  &lt;?((&lt;  !   !  &lt;??+!  ?  /@@o</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="378.9"><tspan fill="#79c0ff">- Frontier:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#c9d1d9">Cosmology, astrophysics, quantum</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="397.94" fill="#8b949e">        &gt;O@-   ujOWw_j       u-Q&amp;knv!   (@@c</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="397.94"><tspan fill="#79c0ff">- Watching:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#c9d1d9">Space missions, deep tech</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="416.98" fill="#8b949e">       ~x&lt;C_      !!            ~       |b\)t</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="416.98"><tspan fill="#79c0ff">- Studying:</tspan><tspan fill="#484f58"> ....... </tspan><tspan fill="#c9d1d9">AI and Data Science graduate</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="436.02" fill="#8b949e">       ~- x_                            tX ?f</text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="455.06" fill="#8b949e">        f v|                            zc ?(</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="455.06"><tspan fill="#d2a8ff">- Contact -------------------------------------</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="474.1" fill="#8b949e">        x|jz        +/z   /t _          O~~r&gt;</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="474.1"><tspan fill="#79c0ff">- Email:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">akishorekumar2494@gmail.com</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="493.14" fill="#8b949e">        ?&lt; J          &gt;&gt;  ~~           uz _t</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="493.14"><tspan fill="#79c0ff">- LinkedIn:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">kishore-kumar-11184a196</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="512.18" fill="#8b949e">         + Yt       +/rt /xt|~         h) ~!</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="512.18"><tspan fill="#79c0ff">- Twitter:</tspan><tspan fill="#484f58"> ......................... </tspan><tspan fill="#c9d1d9">kishore2494</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="531.22" fill="#8b949e">           &lt;Z     cuxt/\/\//rxXz      YJ</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="531.22"><tspan fill="#79c0ff">- Medium:</tspan><tspan fill="#484f58"> ......................... </tspan><tspan fill="#c9d1d9">@kishore2494</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="550.26" fill="#8b949e">            UQ&gt;  ~+ _&lt;      ~_ |-    jh</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="550.26"><tspan fill="#79c0ff">- Site:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">kishore2494.github.io/personal-site-2</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="569.3" fill="#8b949e">             dQ+ +?   -CZOX&lt;    -  ~c*?</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="569.3"><tspan fill="#79c0ff">- Status:</tspan><tspan fill="#484f58"> ..... </tspan><tspan fill="#c9d1d9">Open to deep-tech collaborations</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="588.34" fill="#8b949e">             _&amp;*vvr    _f(&lt;    tUjck8u</text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="607.38" fill="#8b949e">             !_J%BkY?~ &lt;  ! ~?Jh&amp;@BQ&gt;-</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="607.38"><tspan fill="#d2a8ff">- GitHub Stats --------------------------------</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="626.42" fill="#8b949e">             |! +C8@@MbdwwZbWB@@WU&gt;  v\</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="626.42"><tspan fill="#79c0ff">- Repos:</tspan><tspan fill="#484f58"> .................................... </tspan><tspan fill="#7ee787">15</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="20" y="645.46" fill="#8b949e">            /z+   !vph&amp;@@@@@Wh0r!   ? zr</text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="645.46"><tspan fill="#79c0ff">- Commits:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#7ee787">118</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="664.5"><tspan fill="#79c0ff">- Stars:</tspan><tspan fill="#484f58"> ..................................... </tspan><tspan fill="#7ee787">2</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="683.54"><tspan fill="#79c0ff">- Followers:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#7ee787">7</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="702.58"><tspan fill="#79c0ff">- Projects shipped:</tspan><tspan fill="#484f58"> ........................ </tspan><tspan fill="#7ee787">10+</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="721.62"><tspan fill="#79c0ff">- Essays written:</tspan><tspan fill="#484f58"> .......................... </tspan><tspan fill="#7ee787">25+</tspan></text>
-  <text xml:space="preserve" style="white-space:pre" x="448.4" y="740.66"><tspan fill="#79c0ff">- Joined:</tspan><tspan fill="#484f58"> .......................... </tspan><tspan fill="#c9d1d9">26 Jan 2022</tspan></text>
+  <rect width="855" height="764" rx="8" fill="#0d1117"/>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="36.18"><tspan fill="#d2a8ff">kishore@kishore2494</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="55.22"><tspan fill="#d2a8ff">- System --------------------------------------</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="74.26"><tspan fill="#79c0ff">- OS:</tspan><tspan fill="#484f58"> ...................... </tspan><tspan fill="#c9d1d9">macOS, iOS, Android</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="93.3"><tspan fill="#79c0ff">- Uptime:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">4 years, 7 months, 5 days</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="112.34" fill="#8b949e">                   *@@@*  @@@*@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="112.34"><tspan fill="#79c0ff">- Host:</tspan><tspan fill="#484f58"> .............................. </tspan><tspan fill="#c9d1d9">Aurora AI</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="131.38" fill="#8b949e">                 *@@@@@@@@@@@@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="131.38"><tspan fill="#79c0ff">- Kernel:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#c9d1d9">Founder, AI Engineer</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="150.42" fill="#8b949e">               @@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="150.42"><tspan fill="#79c0ff">- Shell:</tspan><tspan fill="#484f58"> .................... </tspan><tspan fill="#c9d1d9">Deep-Tech Explorer</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="169.46" fill="#8b949e">             @@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="169.46"><tspan fill="#79c0ff">- Locale:</tspan><tspan fill="#484f58"> ................................ </tspan><tspan fill="#c9d1d9">India</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="188.5" fill="#8b949e">            @@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="188.5"><tspan fill="#79c0ff">- IDE:</tspan><tspan fill="#484f58"> .................... </tspan><tspan fill="#c9d1d9">VS Code, Claude Code</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="207.54" fill="#8b949e">          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="226.58" fill="#8b949e">         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="226.58"><tspan fill="#d2a8ff">- Languages -----------------------------------</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="245.62" fill="#8b949e">         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="245.62"><tspan fill="#79c0ff">- Programming:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="264.66" fill="#8b949e">         @@@@@@@*                    @@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="264.66"><tspan fill="#79c0ff">- AI / ML:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#c9d1d9">LLM fine-tuning, RAG, multi-agent</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="283.7" fill="#8b949e">          @@@@@                      *@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="283.7"><tspan fill="#79c0ff">- Stack:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">LangChain, Ollama, FAISS, ChromaDB</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="302.74" fill="#8b949e">          @@@@@                      @@@@@@@*</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="302.74"><tspan fill="#79c0ff">- Web:</tspan><tspan fill="#484f58"> ................ </tspan><tspan fill="#c9d1d9">React, Three.js, OpenAPI</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="321.78" fill="#8b949e">          @@@@@                      *@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="321.78"><tspan fill="#79c0ff">- Computer:</tspan><tspan fill="#484f58"> ......... </tspan><tspan fill="#c9d1d9">HTML, CSS, SQL, JSON, YAML</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="340.82" fill="#8b949e">          @@@@  @@@@@@@     *@@@@@@@  @@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="359.86" fill="#8b949e">           @@@ @@ ******    **@*** @@  @@@*</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="359.86"><tspan fill="#d2a8ff">- Interests -----------------------------------</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="378.9" fill="#8b949e">           @@@  *@@@@@@**  **@@@@@@*   @@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="378.9"><tspan fill="#79c0ff">- Frontier:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#c9d1d9">Cosmology, astrophysics, quantum</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="397.94" fill="#8b949e">          @@@@    **@*        *@@*     @@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="397.94"><tspan fill="#79c0ff">- Watching:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#c9d1d9">Space missions, deep tech</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="416.98" fill="#8b949e">          @@*@                         @@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="416.98"><tspan fill="#79c0ff">- Studying:</tspan><tspan fill="#484f58"> ....... </tspan><tspan fill="#c9d1d9">AI and Data Science graduate</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="436.02" fill="#8b949e">          @@@@       **               *@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="455.06" fill="#8b949e">           @@@       *@@**@@**        @@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="455.06"><tspan fill="#d2a8ff">- Contact -------------------------------------</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="474.1" fill="#8b949e">           @*@*       ****@@*         @ *@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="474.1"><tspan fill="#79c0ff">- Email:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">akishorekumar2494@gmail.com</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="493.14" fill="#8b949e">            *@@    *@@@@@@@@@@@*     @@**</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="493.14"><tspan fill="#79c0ff">- LinkedIn:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">kishore-kumar-11184a196</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="512.18" fill="#8b949e">              @@*  @@@@*****@@@@   **@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="512.18"><tspan fill="#79c0ff">- Twitter:</tspan><tspan fill="#484f58"> ......................... </tspan><tspan fill="#c9d1d9">kishore2494</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="531.22" fill="#8b949e">               @@**@  *@@@@@*  ** *@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="531.22"><tspan fill="#79c0ff">- Medium:</tspan><tspan fill="#484f58"> ......................... </tspan><tspan fill="#c9d1d9">@kishore2494</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="550.26" fill="#8b949e">               @@@@@*  *@@@   *@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="550.26"><tspan fill="#79c0ff">- Site:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">kishore2494.github.io/personal-site-2</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="569.3" fill="#8b949e">               @*@@@@@*******@@@@@@@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="569.3"><tspan fill="#79c0ff">- Status:</tspan><tspan fill="#484f58"> ..... </tspan><tspan fill="#c9d1d9">Open to deep-tech collaborations</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="588.34" fill="#8b949e">               @  @@@@@@@@@@@@@@@@  @@</text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="607.38" fill="#8b949e">              @@@   @@@@@@@@@@@*   @ @@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="607.38"><tspan fill="#d2a8ff">- GitHub Stats --------------------------------</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="626.42" fill="#8b949e">            @@*@ @      *****    **  @*@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="626.42"><tspan fill="#79c0ff">- Repos:</tspan><tspan fill="#484f58"> .................................... </tspan><tspan fill="#7ee787">15</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="20" y="645.46" fill="#8b949e">         *@****@   @           @*   @*****@@</text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="645.46"><tspan fill="#79c0ff">- Commits:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#7ee787">118</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="664.5"><tspan fill="#79c0ff">- Stars:</tspan><tspan fill="#484f58"> ..................................... </tspan><tspan fill="#7ee787">2</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="683.54"><tspan fill="#79c0ff">- Followers:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#7ee787">7</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="702.58"><tspan fill="#79c0ff">- Projects shipped:</tspan><tspan fill="#484f58"> ........................ </tspan><tspan fill="#7ee787">10+</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="721.62"><tspan fill="#79c0ff">- Essays written:</tspan><tspan fill="#484f58"> .......................... </tspan><tspan fill="#7ee787">25+</tspan></text>
+  <text xml:space="preserve" style="white-space:pre" x="431.6" y="740.66"><tspan fill="#79c0ff">- Joined:</tspan><tspan fill="#484f58"> .......................... </tspan><tspan fill="#c9d1d9">26 Jan 2022</tspan></text>
 </svg>
