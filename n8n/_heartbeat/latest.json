@@ -1,0 +1,12 @@
+{
+  "ran_at": "2026-09-01T12:49:27.346+05:30",
+  "snapshot_date": "2026-09-01",
+  "mode": "degraded:no-regions-configured",
+  "triggered_by": "production",
+  "regions_configured": 0,
+  "regions_declared": 5,
+  "pg_module_error": null,
+  "orgs": 0,
+  "apps": 0,
+  "failures": 0
+}
